@@ -6,7 +6,7 @@ I created and maintain the [setup-php](https://github.com/shivammathur/setup-php
     <summary> <samp>📈 GitHub stats</samp></summary>
 <br/>
 
-![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api?username=shivammathur&count_private=true&show_icons=true)
+![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api?username=shivammathur&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
 
 </details>
 
@@ -14,11 +14,11 @@ I created and maintain the [setup-php](https://github.com/shivammathur/setup-php
     <summary> <samp>📝 Programming Languages</samp></summary>
 <br/>
 
-![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivammathur&langs_count=10&layout=compact)
+![Shivam Mathur Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivammathur&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10)
 
 </details>
 
-If you use any of my projects, a monthly sponsorship would mean a lot and make my open-source work sustainable.
+If you use my open-source projects, please consider sponsoring so that I can continue maintaining them and keeping them secure.
 
 [![https://github.com/sponsors/shivammathur](https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors)](https://github.com/sponsors/shivammathur)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:contact@shivammathur.com)
