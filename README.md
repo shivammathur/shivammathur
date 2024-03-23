@@ -18,7 +18,7 @@ I created and maintain the [setup-php](https://github.com/shivammathur/setup-php
 
 </details>
 
-If you use my open-source projects, please consider sponsoring my work so that I have the funding and resources to maintain them.
+If you use my open-source projects, please consider sponsoring my work.
 
 [![https://github.com/sponsors/shivammathur](https://img.shields.io/badge/-Sponsor-fafbfc?logo=GitHub%20Sponsors)](https://github.com/sponsors/shivammathur)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=Gmail&logoColor=white)](mailto:contact@shivammathur.com)
