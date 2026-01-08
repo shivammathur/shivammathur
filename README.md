@@ -6,7 +6,7 @@ I created and maintain the [setup-php](https://github.com/shivammathur/setup-php
     <summary> <samp>📈 GitHub stats</samp></summary>
 <br/>
 
-![Shivam Mathur GitHub stats](https://github-readme-stats.vercel.app/api?username=shivammathur&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
+![Shivam Mathur GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=shivammathur&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true)
 
 </details>
 
@@ -14,7 +14,7 @@ I created and maintain the [setup-php](https://github.com/shivammathur/setup-php
     <summary> <samp>📝 Programming Languages</samp></summary>
 <br/>
 
-![Shivam Mathur Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shivammathur&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10)
+![Shivam Mathur Language stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shivammathur&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_border=true&langs_count=10)
 
 </details>
 
