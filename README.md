@@ -1,6 +1,8 @@
 ### <samp>**> Hi there 👋, I'm Shivam**</samp>
 
-I created and maintain the [setup-php](https://github.com/shivammathur/setup-php) project. As part of that, I also maintain builds of PHP and various PHP extensions for different platforms. If you have questions or need help with any of my projects, feel free to reach out.
+I'm a PHP core developer working with [The PHP Foundation](https://thephp.foundation/), maintaining and improving PHP support for Windows.
+
+Also, I created and maintain the [setup-php](https://github.com/shivammathur/setup-php) project. As part of that, I also maintain builds of PHP and various PHP extensions for different platforms. If you have questions or need help with any of my projects, feel free to reach out.
 
 <details>
     <summary> <samp>📈 GitHub stats</samp></summary>
